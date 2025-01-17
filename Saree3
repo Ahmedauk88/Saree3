@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saree3 - خدمة توصيل الطلبات</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>مرحبًا في Saree3</h1>
+        <p>منصة توصيل الطلبات وإدارة المحلات</p>
+    </header>
+
+    <section class="features">
+        <h2>الميزات</h2>
+        <ul>
+            <li>تصنيف المحلات حسب القطاع</li>
+            <li>اختيارات متعددة لتقديم الطلبات (واتساب، ماسنجر، مكالمات هاتفية)</li>
+            <li>سهولة الوصول عبر QR كود</li>
+        </ul>
+    </section>
+
+    <section class="how-it-works">
+        <h2>كيف يعمل؟</h2>
+        <ol>
+            <li>امسح الكود QR لفتح المنصة</li>
+            <li>اختر القطاع وابحث عن المحل المناسب</li>
+            <li>قم بتقديم طلبك باستخدام الوسيلة المفضلة لديك</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Saree3. جميع الحقوق محفوظة.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
